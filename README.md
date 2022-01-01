@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python and HTML
 - 🥅 2022 Goals: Learn python and HTML
-- ⚡ Fun fact: I love to talk with people online and [Astar777] is my best frend
+- ⚡ Fun fact: I love to talk with people online
 
 ### Connect with me:
 [<img align="left" alt="cyberrakib360 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5/icons/discord.svg" />][discord]
