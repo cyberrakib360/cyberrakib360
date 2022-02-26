@@ -2,8 +2,8 @@
 
 ## I'm a Developer, and Student!!
 
-- 🌱 I’m currently learning python and HTML
-- 🥅 2022 Goals: Learn python and HTML
+- 🌱 I’m currently learning python, HTML and Lua
+- 🥅 2022 Goals: Learn pytho, HTML and Lua
 - ⚡ Fun fact: I love to talk with people online
 
 ### Connect with me:
